@@ -9,8 +9,8 @@
   <a href="mailto:pocopv1@gmail.com">
     <img src="https://img.shields.io/badge/Email-pocopv1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/pocopv1-star">
-    <img src="https://img.shields.io/badge/GitHub-pocopv1--star-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/alvinosetyawan">
+    <img src="https://img.shields.io/badge/GitHub-AlvinoSetyawan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 ### 💫 About Me
 
-Halo! Saya **Alvino Setyawan**, siswa kelas **X PPLG** (Pengembangan Perangkat Lunak dan Gim) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya tertarik dalam dunia pemrograman, pengembangan web, serta pembuatan gim.
+Halo! Saya **Alvino Setyawan**, siswa kelas **X PPLG** (Pengembangan Perangkat Lunak dan Gim) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya memiliki ketertarikan dalam dunia pemrograman, pengembangan web, serta pembuatan gim.
 
 - 🏫 **Sekolah:** SMK Muhammadiyah 3 Tangerang Selatan
 - 📚 **Jurusan:** X PPLG (Pengembangan Perangkat Lunak dan Gim)
@@ -44,6 +44,6 @@ Halo! Saya **Alvino Setyawan**, siswa kelas **X PPLG** (Pengembangan Perangkat L
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pocopv1-star&show_icons=true&theme=tokyonight&hide_border=true" alt="Radit's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pocopv1-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinosetyawan&show_icons=true&theme=tokyonight&hide_border=true" alt="Alvino's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinosetyawan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
