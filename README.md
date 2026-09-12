@@ -18,7 +18,7 @@
 
 ### 💫 About Me
 
-Halo! Saya **Radit Saputra**, siswa kelas **X PPLG** (Pengembangan Perangkat Lunak dan Gim) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya tertarik dalam dunia pemrograman, pengembangan web, serta pembuatan gim.
+Halo! Saya **Alvino Setyawan**, siswa kelas **X PPLG** (Pengembangan Perangkat Lunak dan Gim) di **SMK Muhammadiyah 3 Tangerang Selatan**. Saya tertarik dalam dunia pemrograman, pengembangan web, serta pembuatan gim.
 
 - 🏫 **Sekolah:** SMK Muhammadiyah 3 Tangerang Selatan
 - 📚 **Jurusan:** X PPLG (Pengembangan Perangkat Lunak dan Gim)
