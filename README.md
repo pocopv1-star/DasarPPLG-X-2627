@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radit Saputra!</h1>
+<h1 align="center">Hi 👋, I'm Alvino Setyawan!</h1>
 <h3 align="center">Student at SMK Muhammadiyah 3 Tangerang Selatan | X PPLG</h3>
 
 <p align="center">
